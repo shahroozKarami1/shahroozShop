@@ -1,0 +1,144 @@
+
+
+
+{
+    "navBar": [
+      { "id": "1", "title": "Home"   },
+      { "id": "2", "title": "Top  Rated"     ,  "link"    :  "#"   }   , 
+      { "id": "3", "title": "Kids  wear"      ,  "link"    :  "#"  }   , 
+      { "id": "4", "title": "Mens wear"     ,  "link"    :  "#"   }   , 
+      { "id": "5", "title": "Electronics"      ,  "link"    :  "#"  }   , 
+      { "id": "6", "title": "Trendiind Items"     ,  "link"    :  "#"   ,   "subMenu"   :   [
+{
+      "id"  :  1   ,   "subTitle" :  "the best"  }  , 
+{
+      "id"  :  2  ,   "subTitle" :  "the Cheapest"  }  , 
+{
+      "id"  :  3   ,   "subTitle" :  "the best seller"  }  
+
+    
+      ] }   
+
+      
+    ]   , 
+
+    "hero"    :  [
+
+
+
+      {"id"   : 1   ,   "cover"  : "../../src/assets/hero/sale.png"    ,   "title"  : "Stainless Steel"   ,        "dsc"  :   "Mixing Bowls with Airtight Lids Set, 26PCS Stainless Steel Khaki Bowls with Grater Attachments, Non-Slip Bottoms & Kitchen Gadgets Set, Size 7, 4, 2.5, 2.0,1.5, 1QT, Great for Mixing & Serving"   }  ,
+      {"id"   : 1   ,   "cover"  : "../../src/assets/hero/shopping.png"    ,   "title"  : "Stainless Steel"   ,        "dsc"  :   "Mixing Bowls with Airtight Lids Set, 26PCS Stainless Steel Khaki Bowls with Grater Attachments, Non-Slip Bottoms & Kitchen Gadgets Set, Size 7, 4, 2.5, 2.0,1.5, 1QT, Great for Mixing & Serving"   }  ,
+      {"id"   : 1   ,   "cover"  : "../../src/assets/hero/women.png"    ,   "title"  : "Stainless Steel"   ,        "dsc"  :   "Mixing Bowls with Airtight Lids Set, 26PCS Stainless Steel Khaki Bowls with Grater Attachments, Non-Slip Bottoms & Kitchen Gadgets Set, Size 7, 4, 2.5, 2.0,1.5, 1QT, Great for Mixing & Serving"   }  
+    ]   , 
+
+
+
+
+    "productsData"     :  [
+
+
+      {
+       "id"  :  1   ,  
+        "cover"  :  "../../src/assets/women/women.png"  , "title"  :  "woman Ethnic"  ,   "color"  :  "red"    , "Rated"  :  "5"
+
+      }  , 
+      {
+  "id"  :  2   ,  
+        "cover"  :  "../../src/assets/women/women2.jpg"  , "title"  :  " T-shirt"  ,   "color"  :  "green"    , "Rated"  :  "2"
+
+      }  , 
+      {
+  "id"  :  3   ,  
+        "cover"  :  "../../src/assets/women/women3.jpg"  , "title"  :  "formal clothes "  ,   "color"  :  "white"    , "Rated"  :  "4.4"
+
+      }  , 
+      {
+  "id"  :  4   ,  
+        "cover"  :  "../../src/assets/women/women4.jpg"  , "title"  :  "catual  clothes"  ,   "color"  :  "blue"    , "Rated"  :  "3.5"
+
+      }  , 
+      {
+  "id"  :  5   ,  
+        "cover"  :  "../../src/assets/women/women.png"  , "title"  :  "printed  T-shirt"  ,   "color"  :  "yelllow"    , "Rated"  :  "1.2"
+
+      } 
+    ]  , 
+     
+
+    "topRatedShirts"   :   [
+      {
+         "id"  :  "1"  , 
+          "cover" :  "../../src/assets/shirt/shirt.png"  , 
+          "title"  :  "Catual Wear"     ,
+          "desc"  :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."  , 
+          "rate"  :   "4"
+  
+      }   , 
+      {
+         "id"  :  "2"  , 
+          "cover" :  "../../src/assets/shirt/shirt2.png"  , 
+          "title"  :  "Printed  shirt"     ,
+          "desc"  :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."  , 
+          "rate"  :   "4"
+  
+      }   , 
+      {
+         "id"  :  "3"  , 
+          "cover" :  "../../src/assets/shirt/shirt3.png"  , 
+          "title"  :  "Women Wear"     ,
+          "desc"  :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."  , 
+          "rate"  :   "4"
+  
+      }   
+    ]
+  , 
+
+"Testimonial"    :  [
+
+    {
+       "id" :  "1"  ,  
+       "image" :  "../../src/assets/Testimonial/image1.jpg"    ,  
+       "title"  :  "Virat Kohli"  ,  
+       "desc" :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."
+    }  , 
+    {
+       "id" :  "2"  ,  
+       "image" :  "../../src/assets/Testimonial/image2.jpg"    ,  
+       "title"  :  "Sachin  Tendulkar"  ,  
+       "desc" :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."
+    }  , 
+    {
+       "id" :  "3"  ,  
+       "image" :  "../../src/assets/Testimonial/image3.jpg"    ,  
+       "title"  :  "Victor"  ,  
+       "desc" :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."
+    }  , 
+    {
+       "id" :  "4"  ,  
+       "image" :  "../../src/assets/Testimonial/image4.jpg"    ,  
+       "title"  :  "Shahrooz  karami  "  ,  
+       "desc" :  "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus, cum."
+    }  
+]
+ ,  
+ "Footer"  :   [
+  {
+    "link"  :  "#"  ,  
+    "name"  :  "Home"
+  }   ,  
+  {
+    "link"  :  "#"  ,  
+    "name"  :  "About"
+  }   ,  
+  {
+    "link"  :  "#"  ,  
+    "name"  :  "Contact"
+  }   ,  
+  {
+    "link"  :  "#"  ,  
+    "name"  :  "Blog"
+  }   
+ ]
+
+
+  }
